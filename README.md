@@ -20,7 +20,6 @@
 - **Web development**
 - **Java**
 - **AI**
-- **Big Data**
 
 ---
 
